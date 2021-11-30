@@ -11,3 +11,7 @@
 .bm-margin-top{
     margin-top: 50px;
 }
+
+.bm-flex{
+    display:flex;
+}
